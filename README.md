@@ -8,14 +8,14 @@ There are three separate npm projects, a REST API, a GraphQL, and a React App.
 
 REST API:
 ```
-cd /rest-api
+cd rest-api
 npm i
-npm start:dev
+npm start dev
 ```
 
 React App:
 ```
-cd /react-app
+cd react-app
 npm i
 npm start
 ```
